@@ -10,4 +10,4 @@ metadata:
     gitops.jenkins-x.io/pipeline: 'namespaces'
 data:
   kaniko.flags: "--insecure"
-  docker.registry: 10.98.199.54
+  docker.registry: 10.100.15.252
